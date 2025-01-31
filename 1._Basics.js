@@ -2,7 +2,6 @@
 // Variables, strings, numbers, floats
 // --------------------------------------
 // Exercise 1 - Console and constiables
-// test
 const firstName = "Anders";
 const lastName = "Latif";
 // EXERCISE
