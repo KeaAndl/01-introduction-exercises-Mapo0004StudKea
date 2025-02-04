@@ -13,7 +13,7 @@ console.log(letters[1]);
 const friends = [];
 
 // What a lonely array. Add at least 3 friend objects to it.  
-friends.push({name: "Steen"}, {name: "Jester"}, {name: "Alexander"});
+friends.push({name: "Steen"}, {name: "Jesper"}, {name: "Alexander"});
 console.log(friends);
 
 // --------------------------------------
